@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexandra7891
-- 🌱 I’m a self learner and concentrating on WebDesigning
+- 🌱 I’m a self learner and concentrating on Web Developing/ used to learn C++ (knowing the basisc)
 - 💞️ I’m looking to collaborate with people who are at the beginning of their journey.
 - 📫 How to reach me :
 alexandra.dzielnicka@gmail.com
