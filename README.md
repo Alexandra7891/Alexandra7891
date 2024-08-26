@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alexandra7891
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning the language above, I am a self learner.
-- 💞️ I’m looking to collaborate on people who are at the beginning of their journey.
+- 🌱 I’m a self learner and concentrating on WebDesigning
+- 💞️ I’m looking to collaborate with people who are at the beginning of their journey.
 - 📫 How to reach me :
 alexandra.dzielnicka@gmail.com
 
